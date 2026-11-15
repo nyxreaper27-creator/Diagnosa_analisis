@@ -1,0 +1,12 @@
+FOLDER FOTO KENANGAN
+
+1. Salin foto-fotomu ke folder ini (format .jpg, .jpeg, .png, atau .webp).
+2. Buka kado.js, lalu daftarkan di bagian "foto", satu baris per foto:
+       { "src": "foto/pantai.jpg", "teks": "Pantai, Juli 2024" },
+3. Tiga foto bernama contoh-1.jpg, contoh-2.jpg, dan contoh-3.jpg hanyalah contoh. Hapus filenya dan
+   barisnya di kado.js sebelum kado dikirim.
+
+Tips:
+- Pakai nama file huruf kecil tanpa spasi (pantai-2024.jpg), supaya aman di semua hosting.
+- Perkecil foto dulu, sisi terpanjang 1200 px sudah cukup. Foto 5 MB akan membuat kado lama dimuat di HP.
+- Foto pertama sampai keempat tampil di lembar kenangan. Semua foto (sampai 12) tampil di galeri.
